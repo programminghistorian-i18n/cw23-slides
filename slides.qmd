@@ -25,7 +25,23 @@ format:
 - to reuse and adapt the setup used by the Carpentries in order to establish the similar infrastructure for the Programming Historian.
 
 # Collaboration tools
+![](images/3_plan.png){height=300}
 
 - GH project board for draft issue tracking (when repos don't exist yet!)
 - `hackmd` shared doc
 - talking to each other!
+
+# Plan
+![](images/2_first_try.png){height=300}
+
+- test `transifex` manually
+- create some sample translations
+- fork programming historian to contribute sample translations as an example
+
+# Redacted Plan
+
+- test `transifex` manually
+- create some sample translations
+- ~~fork programming historian to contribute sample translations as an example~~
+- create an intermediate preview site to make things simpler
+
