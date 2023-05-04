@@ -6,7 +6,6 @@ format:
     theme: simple
 ---
 
-
 ##
 
 ![](images/1_team.png){height=350}
@@ -45,3 +44,15 @@ format:
 - ~~fork programming historian to contribute sample translations as an example~~
 - create an intermediate preview site to make things simpler
 
+## Demo of preview site
+
+![](images/4_fork.png){height=300}
+
+(but that's what we did... at least we say so on the main README!)
+
+## Demo of preview site
+
+
+![](images/5_readme.png){height=300}
+
+(but that's what we did... at least we say so on the main README!)
