@@ -1,6 +1,6 @@
 ---
 title: "Sunflowers - Programming Historian in Ukrainian (and other languages)"
-author: "Olexandr Konovalev, Michael Tso, Alessandro Felder"
+author: "Olexandr Konovalov, Michael Tso, Alessandro Felder"
 format:
   revealjs: 
     theme: simple
@@ -11,7 +11,7 @@ format:
 
 ![](images/1_team.png){height=350}
 
-- Olexandr Konovalov (Lecturer at St. Andrews)
+- Olexandr Konovalov (Lecturer at St Andrews)
 - Michael Tso (Research Data Scientist at UK Centre for Ecology and Hydrology)
 - Alessandro Felder (Research Software Engineer at University College London)
 
