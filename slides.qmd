@@ -1,0 +1,31 @@
+---
+title: "Sunflowers - Programming Historian in Ukrainian (and other languages)"
+author: "Olexandr Konovalev, Michael Tso, Alessandro Felder"
+format:
+  revealjs: 
+    theme: simple
+---
+
+
+##
+
+![](images/1_team.png){height=350}
+
+- Olexandr Konovalov (Lecturer at St. Andrews)
+- Michael Tso (Research Data Scientist at UK Centre for Ecology and Hydrology)
+- Alessandro Felder (Research Software Engineer at University College London)
+
+# Context
+
+- Preservation of historic Ukrainian heritage requires data skills
+- Programming Historian provides teaching material for this, and ad-hoc translation efforts exist, but these don't scale well due to lack of infrastructure and documentation
+- Carpentries internationalisation infrastructure, using a tool called `transifex`, has been successful in the last year
+
+# Hackday idea
+- to reuse and adapt the setup used by the Carpentries in order to establish the similar infrastructure for the Programming Historian.
+
+# Collaboration tools
+
+- GH project board for draft issue tracking (when repos don't exist yet!)
+- `hackmd` shared doc
+- talking to each other!
