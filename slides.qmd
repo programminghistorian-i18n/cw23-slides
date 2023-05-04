@@ -56,3 +56,9 @@ format:
 ![](images/5_readme.png){height=300}
 
 (but that's what we did... at least we say so on the main README!)
+
+## Sample translation: proof of concept
+
+![](images/ua.png){height=200}
+![](images/zh.png){height=200}
+![](images/de.png){height=200}
